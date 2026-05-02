@@ -18,15 +18,15 @@
     "author": [
       {
         "name": "MatrixFive",
-        "bindABAccount": false
+        "bindABAccount": true
       },
       {
         "name": "点击购买",
-        "bindABAccount": true
+        "bindABAccount": false
       },
       {
         "name": "产品官网",
-        "bindABAccount": true
+        "bindABAccount": false
       }
     ]
   },
