@@ -1,0 +1,75 @@
+{
+  "item": {
+    "id": "com.matrixfive.online.ylgy",
+    "name": "三相消除",
+    "description": "小米手环上的羊了个羊",
+    "preview": [
+      "preview.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png"
+    ],
+    "icon": "logo.png",
+    "cover": "preview.png",
+    "source_url": "https://github.com/jinmohan/SanXiangXiaoChuFor_AstroBox_Release",
+    "author": [
+      {
+        "name": "MatrixFive",
+        "author_url": "https://www.bandbbs.cn/members/924027/"
+      },
+      {
+        "name": "点击购买",
+        "author_url": "https://afdian.com/item/a22313a681bc11f0bd2952540025c377"
+      },
+      {
+        "name": "产品官网",
+        "author_url": "https://sxxc.mfoa.top"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForMI9-V4.1.rpk"
+    },
+    "n67": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForMI9Pro-V4.1.rpk"
+    },
+    "o66": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForMI10-V4.1.rpk"
+    },
+    "o66nfc": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForMI10-V4.1.rpk"
+    },
+    "n62": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+    },
+    "o62": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+    },
+    "o62m": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+    },
+    "o65": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForRW-V4.1.rpk"
+    },
+    "o65m": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForRW-V4.1.rpk"
+    },
+    "p65": {
+      "version": "4.1.0",
+      "file_name": "Sxxc-ForRW-V4.1.rpk"
+    }
+  }
+}
