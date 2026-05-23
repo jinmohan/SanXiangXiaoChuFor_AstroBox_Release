@@ -33,31 +33,31 @@
   "downloads": {
     "n66": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForMI9-V4.1.rpk"
+      "file_name": "MI9-V4.1.0NR.rpk"
     },
     "n67": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForMI9Pro-V4.1.rpk"
+      "file_name": "MI9_10Pro-V4.1.0NR.rpk"
     },
     "o66": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForMI10-V4.1.rpk"
+      "file_name": "MI10-V4.1.0NR.rpk"
     },
     "o66nfc": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForMI10-V4.1.rpk"
+      "file_name": "MI10-V4.1.0NR.rpk"
     },
     "n62": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+      "file_name": "WS-V4.1.0NR.rpk"
     },
     "o62": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+      "file_name": "WS-V4.1.0NR.rpk"
     },
     "o62m": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+      "file_name": "WS-V4.1.0NR.rpk"
     },
     "o65": {
       "version": "4.1.0",
@@ -65,11 +65,15 @@
     },
     "o65m": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForRW-T-V4.1.rpk"
+      "file_name": "RW-V4.1.0NR.rpk"
     },
     "p65": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForRW-T-V4.1.rpk"
+      "file_name": "RW-V4.1.0NR.rpk"
+    },
+    "p67": {
+      "version": "4.1.0",
+      "file_name": "MI9_10Pro-V4.1.0NR.rpk"
     }
   }
 }
