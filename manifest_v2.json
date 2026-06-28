@@ -36,44 +36,48 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForMI9-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABFor9-V4.1.1.rpk"
     },
     "xmb9p": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForMI9Pro-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABFor9-10Pro-V4.1.1.rpk"
     },
     "xmb10": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForMI10-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABFor10-V4.1.1.rpk"
     },
     "xmb10nfc": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForMI10-V4.1.rpk"
+      "file_name": "V4.1.1/SX_ABFor10-V4.1.1.rpk"
     },
     "xmws3": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABForWS3_4-V4.1.1.rpk"
     },
     "xmws4": {
       "version": "4.1.0",
-      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+      "file_name": "V4.1.1/SX_ABForWS3_4-V4.1.1.rpk"
     },
     "xmws4xring": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForWetchS-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABForWS3_4-V4.1.1.rpk"
     },
     "xmrw5": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForRW-T-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABForRW-V4.1.1.rpk"
     },
     "xmrw5xring": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForRW-T-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABForRW-V4.1.1.rpk"
     },
     "xmrw6": {
-      "version": "4.1.0",
-      "file_name": "Sxxc-ForRW-T-V4.1.rpk"
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABForRW-V4.1.1.rpk"
+    },
+    "xmb10p": {
+      "version": "4.1.1",
+      "file_name": "V4.1.1/SX_ABFor9-10Pro-V4.1.1.rpk"
     }
   },
   "ext": {}
