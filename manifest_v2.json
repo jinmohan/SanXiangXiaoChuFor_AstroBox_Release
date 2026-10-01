@@ -3,7 +3,7 @@
     "id": "com.matrixfive.online.ylgy",
     "restype": "quick_app",
     "name": "三相消除",
-    "description": "# 三相消除 - 类羊了个羊的三消游戏\n\n## 游戏概述\n\n三相消除是一款运行在智能手表上的休闲益智三消游戏。游戏采用经典三消玩法，玩家需要点击收集三个相同图案进行消除。支持多种游戏模式、道具系统和积分奖励，让您的碎片时间充满乐趣。\n\n## 核心玩法\n\n*   点击相同图案收集三个自动消除\n*   多层堆叠图块，策略性选择消除顺序\n*   7个卡槽限制，考验玩家规划能力\n\n## 游戏模式\n\n1.  **标准模式**：循序渐进，享受闯关乐趣\n2.  **挑战模式**：限时挑战，适合高手玩家\n3.  **无尽模式**：无限关卡，体验通关乐趣\n4.  **精简模式**：复杂地图，体验规划乐趣\n5.  **大图标模式**：简洁界面，纯粹游戏体验\n\n## 道具系统\n\n*   洗牌道具：重新排列剩余图块\n*   暂存道具：临时存储卡槽中的图块\n*   回溯道具：撤销上一步操作\n*   积分翻倍：本关积分翻倍奖励\n\n## 特色功能\n\n*   每日签到获取积分\n*   积分商城购买道具\n*   大图标模式适配\n*   老板键隐藏功能\n\n## 版本信息\n\n*   版本：4.1.2\n*   更新内容：性能优化，体验提升，优化细节，部分设备增加全新游戏模式优化设置界面UI\n*   更新时间：26-9-29",
+    "description": "# 三相消除 - 类羊了个羊的三消游戏\n\n## 游戏概述\n\n三相消除是一款运行在智能手表上的休闲益智三消游戏。游戏采用经典三消玩法，玩家需要点击收集三个相同图案进行消除。支持多种游戏模式、道具系统和积分奖励，让您的碎片时间充满乐趣。\n\n## 核心玩法\n\n*   点击相同图案收集三个自动消除\n*   多层堆叠图块，策略性选择消除顺序\n*   7个卡槽限制，考验玩家规划能力\n\n## 游戏模式\n\n1.  **标准模式**：循序渐进，享受闯关乐趣\n2.  **挑战模式**：限时挑战，适合高手玩家\n3.  **无尽模式**：无限关卡，体验通关乐趣\n4.  **精简模式**：复杂地图，体验规划乐趣\n5.  **大图标模式**：简洁界面，纯粹游戏体验\n\n## 道具系统\n\n*   洗牌道具：重新排列剩余图块\n*   暂存道具：临时存储卡槽中的图块\n*   回溯道具：撤销上一步操作\n*   积分翻倍：本关积分翻倍奖励\n\n## 特色功能\n\n*   每日签到获取积分\n*   积分商城购买道具\n*   大图标模式适配\n*   老板键隐藏功能\n\n## 版本信息\n\n*   版本：V4.1.2\n*   更新内容：性能优化，体验提升，优化细节，部分设备增加全新游戏模式更新设置界面UI\n*   更新时间：26-9-29",
     "preview": [
       "preview.png",
       "1.png",
@@ -29,6 +29,11 @@
       "title": "产品体验官网",
       "url": "https://sxxc.mfoa.top",
       "icon": "link-simple"
+    },
+    {
+      "title": "交流群",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=ODzojo2c4ywhNbC8ZNykGqErnJExoEbG&jump_from=webapi&authKey=3MeurE4gAj0dDFLwHziZQhKbUREYGp/wWQv+loozcRzBeKfwoJCwa6nhh7qARUXO",
+      "icon": "Users"
     }
   ],
   "downloads": {
@@ -44,12 +49,12 @@
     },
     "xmb10": {
       "version": "4.1.2",
-      "file_name": "downloads/SxxcV412_For10-11.rpk",
+      "file_name": "downloads/SxxcV412_For10-11-N.rpk",
       "versionCode": 412
     },
     "xmb10nfc": {
       "version": "4.1.2",
-      "file_name": "downloads/SxxcV412_For10-11.rpk",
+      "file_name": "downloads/SxxcV412_For10-11-N.rpk",
       "versionCode": 412
     },
     "xmws3": {
@@ -89,12 +94,12 @@
     },
     "xmb11": {
       "version": "4.1.2",
-      "file_name": "downloads/SxxcV412_For10-11.rpk",
+      "file_name": "downloads/SxxcV412_For10-11-N.rpk",
       "versionCode": 412
     },
     "xmb11nfc": {
       "version": "4.1.2",
-      "file_name": "downloads/SxxcV412_For10-11.rpk",
+      "file_name": "downloads/SxxcV412_For10-11-N.rpk",
       "versionCode": 412
     },
     "xmws441": {
